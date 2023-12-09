@@ -48,7 +48,7 @@ img{
     height: 150px;
     border-radius: 10px;
 }
-#valed{
+.valed{
     display: flex;
     flex-wrap: wrap;
     justify-content:center ;
@@ -97,11 +97,11 @@ img{
      margin: 0px;height: 0px;
      font-family: Urdu Typesetting;
 }
-#valed2{
+/*#valed2{
     display: flex;
     flex-wrap: wrap;
     justify-content:center ;
-}
+}*/
 #callof{
     flex-grow: 1;
     padding: 32px;
