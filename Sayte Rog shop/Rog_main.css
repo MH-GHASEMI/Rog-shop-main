@@ -48,7 +48,7 @@ img{
     height: 150px;
     border-radius: 10px;
 }
-.valed{
+#valed{
     display: flex;
     flex-wrap: wrap;
     justify-content:center ;
