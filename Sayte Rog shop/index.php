@@ -1,12 +1,13 @@
-<html>
-    <meta dir="ltr">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> 
         Rog shop.com
     </title>
-    <head>
-        <link rel="stylesheet" href="Rog_main.css">
-    </head>
-    <br> 
+    <link rel="stylesheet" href="Rog_main.css">
+</head>
     <body id="main_body">
         <ul>
             <b>
