@@ -104,20 +104,20 @@
             </div>
         </div>
         
-                    <br>
-                    <h6 id="froshgah">
-                        <b> فروشگاه اینترنتی راگ شاپ</b>
-                    </h6>
-                    <h3 id="mtnfroshgah">
-                    <b>تیم راگ شاپ فعالیت خودش رو از سال 1402 بصورت تخصصی در زمینه فروش واحد های پولی درون برنامه ای شروع کرده و تا اکنون با بهترین قیمت، سرعت وکیفیت تمامی سفارشات مشتریان گرامی رو تکمیل کرده و همیشه بصورت 24 ساعته در کل هفته آماده خدمت رسانی به مشتریان عزیز میباشد </b>
-                    </h3>
-                        <h2 id="ertebat"> راه های ارتباط با ما</h2>
-                        <span id="styleerte">
-                            <h4 id="mtnertebat">Telegram :  <a href="https://Telegram.com/Amirmahdips">@AmirmahdiPS </a></h4>
-                            <h4 id="mtnertebat2">instagram :<a style="color: red;" href="https://instagram.com/mmd_serius_ff?igshid=MzMyNGUyNmU2YQ=="> @mmd_serius_ff </a></h4>
-                            <h4 id="mtnertebat2">Rubika :<a style="color: rgb(38, 255, 0);" href="https://rubika.ir/MMD_SERIUS"> @mmd_serius_ff </a></h4>
-                            <h4 id="mtnertebat3"> phone number :  <a href="tel:+9944929868">+9944929868</a></h4>
-                        </span>
-                        <p>pass</p>
     </body>
+    <footer id="footer">
+    <h6 style="color: rgb(0, 0, 0);text-align: right;">
+        <b style="font-size: x-large;"> فروشگاه اینترنتی راگ شاپ</b>
+    </h6>
+         <h3 style="text-align: right;color: rgb(0, 0, 0);">
+             <b>تیم راگ شاپ فعالیت خودش رو از سال 1402 بصورت تخصصی در زمینه فروش واحد های پولی درون برنامه ای شروع کرده و تا اکنون با بهترین قیمت، سرعت وکیفیت تمامی سفارشات مشتریان گرامی رو تکمیل کرده و همیشه بصورت 24 ساعته در کل هفته آماده خدمت رسانی به مشتریان عزیز میباشد </b>
+             </h3>
+                 <h2 style="color: rgb(0, 0, 0);text-align: right;"> راه های ارتباط با ما</h2>
+                 <span style="text-align: left;">
+                     <h4 style="color: rgb(0, 0, 0);display: block">Telegram :  <a style="color: #000000;" href="https://">@AmirmahdiPS </a></h4>
+                     <h4 style="color: rgb(0, 0, 0);display: block;">instagram :<a style="color: rgb(0, 0, 0);" href="https://instagram.com/mmd_serius_ff?igshid=MzMyNGUyNmU2YQ=="> @mmd_serius_ff </a></h4>
+                     <h4 style="color: rgb(0, 0, 0);display: block;">Rubika :<a style="color: rgb(0, 0, 0);" href="https://rubika.ir/MMD_SERIUS"> @mmd_serius_ff </a></h4>
+                     <h4 style="color: rgb(0, 0, 0);display: block;"> phone number :  <a style="color: rgb(0, 0, 0);" href="tel:+9944929868">+9944929868</a></h4>
+                 </span>
+</footer>
 </html>

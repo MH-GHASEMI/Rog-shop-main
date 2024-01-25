@@ -25,7 +25,7 @@
 }
 #user{
     text-align: center;
-    color: black;
+    color: rgb(0, 0, 0);
     padding: 2%;
     margin: 2%;
 }
@@ -34,10 +34,10 @@
     padding: 2%;
     text-align: center;
     width: 90%;
-    color: blue;
+    color: rgb(0, 0, 0);
 }
 #putuser:hover{
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
 }
 #btncreate{
     text-align: center;
@@ -73,4 +73,11 @@
     margin: 2%;
     padding: 1%;
     width: 95%;
+}
+#footer{
+    background: #ffffff;
+    padding: 2%;
+    margin: 0%;
+    text-align: center;
+    border-radius: 1% 8% 1% 8%;
 }
